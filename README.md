@@ -1,3 +1,107 @@
+# 👋 Hi, I'm Donya 
+
+🎓 **Biomedical Engineering Graduate** specialized in **Bioelectrics**, passionate about combining technology and biology to create innovative solutions.  
+💡 I’m eager to integrate my technical skills with cutting-edge projects in leading tech companies.  
+🚀 Currently learning **Image Processing**, **Deep Learning**, and **Version Control (Git/GitHub)**.
+
+---
+
+## 🧠 Skills & Expertise
+
+### 💻 Programming & Data Science
+- **Python**: NumPy, Pandas, Scikit-learn, Seaborn, TensorFlow, Keras, PIL  
+- **Core Areas**:  
+  - Data Analysis & Visualization  
+  - Machine Learning Algorithms  
+  - Image & Data Preprocessing  
+  - Model Training and Evaluation  
+
+---
+
+### 🌐 Web Design
+- **Tools & Technologies:**  
+  WordPress, HTML/CSS, Figma, E-commerce, UI Design
+
+---
+
+### 🧰 Tools & Environments
+- Jupyter Notebook  
+- Google Colab  
+- Git & GitHub  
+- VS Code  
+- Anaconda  
+- Arduino  
+- Proteus  
+- CodeVisionAVR  
+- Figma  
+
+---
+
+## 🌱 Currently Exploring
+- Advanced Deep Learning Architectures  
+- Image Processing Applications in Biomedical Engineering  
+- Collaborative Open-Source Projects  
+
+---
+
+## 📫 Contact
+Feel free to connect with me on [GitHub](https://github.com/donyaforghani/donyaforghani) and [Linkedin](https://www.linkedin.com/in/donyaforghani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or collaborate on projects related to **AI**, **biomedical data**, and **machine learning**.
+
+---
+
+<div dir="rtl">
+
+# 👋 سلام، من دنیا هستم  
+
+🎓 فارغ‌التحصیل مهندسی پزشکی با گرایش **بیوالکتریک**، علاقه‌مند به ترکیب فناوری و زیست‌شناسی برای خلق راهکارهای نوآورانه.  
+💡 مشتاق به ادغام مهارت‌های فنی خود در پروژه‌های پیشرو در شرکت‌های فناوری هستم.  
+🚀 در حال یادگیری **پردازش تصویر**، **یادگیری عمیق** و **کار با گیت و گیت‌هاب** هستم.
+
+---
+
+## 🧠 مهارت‌ها و تخصص‌ها
+
+### 💻 برنامه‌نویسی و علم داده
+- **پایتون**: NumPy، Pandas، Scikit-learn، Seaborn، TensorFlow، Keras، PIL  
+- **زمینه‌های تخصصی:**  
+  - تحلیل و مصورسازی داده‌ها  
+  - الگوریتم‌های یادگیری ماشین  
+  - پردازش و پیش‌پردازش تصویر و داده  
+  - آموزش و ارزیابی مدل‌ها  
+
+---
+
+### 🌐 طراحی وب
+- **ابزارها و فناوری‌ها:**  
+  WordPress، HTML/CSS، Figma، E-commerce، طراحی رابط کاربری (UI)
+
+---
+
+### 🧰 ابزارها و محیط‌ها
+- Jupyter Notebook  
+- Google Colab  
+- Git و GitHub  
+- VS Code  
+- Anaconda  
+- Arduino  
+- Proteus  
+- CodeVisionAVR  
+- Figma  
+
+---
+
+## 🌱 زمینه‌های در حال یادگیری
+- معماری‌های پیشرفته یادگیری عمیق  
+- کاربردهای پردازش تصویر در مهندسی پزشکی  
+- همکاری در پروژه‌های متن‌باز  
+
+---
+
+## 📫 راه‌های ارتباطی
+خوشحال می‌شوم در [GitHub](https://github.com/donyaforghani/donyaforghani) , [Linkedin](https://www.linkedin.com/in/donyaforghani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) با من در ارتباط باشید یا در پروژه‌های مرتبط با **هوش مصنوعی**، **داده‌های زیست‌پزشکی** و **یادگیری ماشین** همکاری کنیم.
+
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donyaforghani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/donya_forghani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donyaforghani65@gmail.com) 
