@@ -1,5 +1,5 @@
 ![Loading](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR4a2p0bDBkZ2Z2cWF6c3k0MXQ3Z205cnhub3k4d2gxaGR3bW45NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif)
-![Loading](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJqMnB1NTM1dGd3OXd1aWtka2ZmdzhidzF1bjM2MHJzN2RpNHkwZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif)
+
 # 👋 Hi, I'm Donya 
 
 🎓 **Biomedical Engineering Graduate** specialized in **Bioelectrics**, passionate about combining technology and biology to create innovative solutions.  
